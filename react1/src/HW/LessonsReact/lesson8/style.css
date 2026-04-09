@@ -1,0 +1,18 @@
+.div{
+    border: 2px solid black;
+    width: 50vw;
+    height: auto;
+    text-align: center;
+}
+
+.p1{
+    font-size: large;
+}
+
+.p2{
+    font-size: x-large;
+}
+
+.p3{
+    font-size: xx-large;
+}

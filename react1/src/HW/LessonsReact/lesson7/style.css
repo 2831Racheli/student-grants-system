@@ -1,0 +1,37 @@
+body {
+    padding: 5vw;
+}
+
+.card {
+    width: 40vw;
+    height: 30vw;
+    border: solid black 3px;
+    float: left;
+}
+
+.form {
+    float: right;
+}
+
+.mainText {
+    font-size: xx-large;
+    font-style: bold;
+}
+
+.shanaTova {
+    background-image: url('./images/רימון.jpg');
+    width: 40vw;
+    /* height: auto; */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.barMitzva {
+    background-image: url('./images/תפילין1.jpg');
+    width: 40vw;
+    /* height: auto; */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.newBorn {}
